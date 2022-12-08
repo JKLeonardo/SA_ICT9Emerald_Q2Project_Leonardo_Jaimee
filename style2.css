@@ -1,0 +1,18 @@
+td{
+	border-style: dashed;
+	border-color: #ffa400;
+	border-width: 10%;
+}
+form{
+	padding: 10%;
+	margin: 10%;
+}
+h1{
+	color: #d6001c;
+	letter-spacing: 10px;
+	text-decoration: underline;
+	text-shadow: 4px 4px 8px #2b2424;
+	margin: 3%;
+
+
+}
